@@ -2,7 +2,7 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "1.0",
+      "latest-version": "1.0.0.7",
       "download-url": "https://xg-ctfs.ftn.qq.com/ftn_handler/d3afe36b26b17115727da15572374564003ee3317823b56a90a4a4c2ff00202b30789259241dd349322a513676f8ff3640b98ba0bf5ed0064d59b17fafe4b967/?fname=20200323_V1007_Setup.exe&k=7b363933633fd5ce212254394233071c5457005007060c0a1b060d55561e0106035214520656051e55530d575c060d0757005850642b3501060409035701066c60070903536c66564243491d014b50330b&code=6693d353&fr=00&&txf_fid=0af575c509475783b4471c791dbd87735714e854&xffz=35648505",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
